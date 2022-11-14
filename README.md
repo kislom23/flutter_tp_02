@@ -1,6 +1,6 @@
 # cours_flutter
 
-A new Flutter project.
+I'm rich challenge 
 
 ## Getting Started
 
